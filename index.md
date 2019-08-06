@@ -2,37 +2,32 @@
 
 ## Objetivo
 
-Qualificar profissionais com algum conhecimento de computação e programação para que sejam capazes de manipular e processar bases de dados em diferentes formatos, projetar "robôs” para capturar informações disponíveis na Webe executar procedimentos básicos de estatística e aprendizado de máquina.
 
+Qualificar profissionais que possuam conhecimentos básicos de computação e programação para que sejam capazes de manipular e processar bases de dados em diferentes formatos, projetar “robôs” para capturar informações disponíveis na Web e executar procedimentos básicos de estatística e aprendizado de máquina, tendo como base a linguagem de programação Python.
 
 ## Público Alvo
 
-Profissionais de TI, programadores, analistas, gerentes de projeto e demais profissionais com conhecimento em computação.
+Profissionais com conhecimentos básicos de programação e que desejam adquirir novos conhecimentos em técnicas de ciência de dados.
+
+
+## Dias e horários
+- 21/09 - 9h as 13h20
+- 28/09 - 9h as 13h20
+- 05/10 - 9h as 13h20
+- 19/10 - 9h as 13h20
+- 09/11 - 9h as 13h20
 
 
 ## Ementa
-1. Ambiente de Programação: python 3, jupyter notebook, pacotes e github
-2. Python I: tipos de dados, sequências e operações, estruturas de controle e repetição
-3. Python II: referências, funções, funções avançadas e comprehention
-4. Python III: I/O e noções básicas de classes e objetos
-5. Numpy I: array, slicing, fancy index, copy and view
-6. Pandas I: dataframes, series, index, Pandas I/O (csv, json, excell)
-7. Numpy II e Matplotlib: operações com array, broadcasting, construção de gráficos usuais 
-8. Pandas II: limpeza de dados
-9. Scikit learn: introdução a mecanismos de clustering, regressão e classificação
-10. Web Crawler: request e funcionalidades associadas
 
-## Dias e horários
-- 21/09
-- 28/09
-- 05/10
-- 19/10
-- 09/11
-
-O curso contará com um total de 30 horas, sendo 10 em sala de aula, 10 de prática e 10 de trabalhos. 
+- Numpy II e Matplotlib: operações com array, broadcasting, técnicas básicas de visualização
+- Pandas II: limpeza de dados
+- Scikit learn: introdução a mecanismos de clustering, predição e classificação
+- Web Crawler: request e funcionalidades associadas
 
 
-# Inscrições
+## Inscrições e Mais Informações
 
-O curso custurá R$ 550 por pessoa e inscrições podem ser feitas [AQUI](google.com).
+Maiores informações, forma de pagamento e inscrição podem ser encontradas aqui.
 
+As vagas são limitadas, faça já sua inscrição.
