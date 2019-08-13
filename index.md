@@ -14,8 +14,8 @@ Profissionais com conhecimentos básicos de programação e que desejam adquirir
 - 21/09 - 9h as 13h20
 - 28/09 - 9h as 13h20
 - 05/10 - 9h as 13h20
-- 19/10 - 9h as 13h20
 - 09/11 - 9h as 13h20
+- 23/11 - 9h as 13h20
 
 
 ## Ementa
