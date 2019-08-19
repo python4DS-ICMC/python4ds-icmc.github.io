@@ -28,6 +28,6 @@ Profissionais com conhecimentos básicos de programação e que desejam adquirir
 
 ## Inscrições e Mais Informações
 
-Maiores informações, forma de pagamento e inscrição podem ser encontradas aqui.
+Maiores informações, forma de pagamento e inscrição podem ser [encontradas aqui.](https://icmc.usp.br/noticias/4503-icmc-oferece-curso-de-programacao-python-para-ciencia-de-dados)
 
 As vagas são limitadas, faça já sua inscrição.
